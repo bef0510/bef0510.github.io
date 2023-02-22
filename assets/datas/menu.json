@@ -1,0 +1,16 @@
+[{
+    "label": "PersonnelInformation",
+    "isActiveMenu": false,
+    "icon": "pi-folder",
+    "routerLink": "",
+    "parent": "",
+    "items":[{
+        "label": "人事履歷資料表",
+        "isActiveMenu": false,
+        "icon": "pi-database",
+        "routerLink": "",
+        "parent": "PersonnelInformation",
+        "items": []
+    }]
+}]
+
